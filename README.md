@@ -6,3 +6,4 @@ on the board such that no queen threatens another.
 Utilizing genetic algorithms, the following program is capable of solving the puzzle. The type of genetic operater used in this
 program is a crossover.
 
+![alt tag](http://i.imgur.com/yy2MwWc.png)
